@@ -94,20 +94,6 @@ The Streamlit dashboard includes:
 
 ---
 
-## ⚠️ Important Note About Data
-
-👉 **Raw dataset is NOT included in this repository.**
-
-Only the **processed feature dataset (`match_features.csv`)** is used for:
-
-* Model inference
-* Feature extraction
-* Streamlit dashboard operations
-
-The original raw data was used only during model training and preprocessing and is not shared due to size / licensing constraints.
-
----
-
 ## 🧪 Model Performance
 
 | Model       | Accuracy |

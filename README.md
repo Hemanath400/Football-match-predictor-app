@@ -6,7 +6,7 @@ A Machine Learning web application that predicts the outcome of a football match
 
 ## 🚀 Live Demo
 
-*(Add Streamlit Cloud link here after deployment)*
+https://football-match-predictor-app-wboma3shb9vcubc2u4fwvv.streamlit.app/
 
 ---
 
